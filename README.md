@@ -1,2 +1,2 @@
-# Gitdrink
-Description of drink recipe
+# Gitcoffee
+Description of coffee recipe
